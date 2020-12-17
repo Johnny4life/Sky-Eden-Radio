@@ -1,7 +1,7 @@
-## Welcome to Sky Eden Radio
-
+## 
+<p align="center">
 <audio controls src="http://s10.myradiostream.com:35854/;"></audio>
-<script src="//myradiostream.com/embed/Skyeden"></script>
+</p>
 
 ### Markdown
 
