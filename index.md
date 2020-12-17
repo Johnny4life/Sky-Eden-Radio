@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Sky Eden Radio
 
-You can use the [editor on GitHub](https://github.com/Johnny4life/Sky-Eden-Radio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<audio controls src="http://s10.myradiostream.com:35854/;"></audio>
+<script src="//myradiostream.com/embed/Skyeden"></script>
 
 ### Markdown
 
